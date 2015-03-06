@@ -1,6 +1,6 @@
 {
   "name": "gulpc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A tiny wrapper of using coffee-script for gulpfile",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "devDependencies": {
     "coffee-script": "^1.9.1"
   },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/kchanzen/gulpc.git"
