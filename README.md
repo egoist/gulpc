@@ -5,7 +5,7 @@
 
 ```bash
 # Note that the step 1. does not really matter if you have coffee-script installed
-globally, however there is going to be some sort of error like this:
+# globally, however there is going to be some sort of error like this:
 
 ➜  app-loading  gulpc
 [05:16:38] Failed to load external module coffee-script/register
