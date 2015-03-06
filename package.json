@@ -1,0 +1,30 @@
+{
+  "name": "gulpc",
+  "version": "0.1.1",
+  "description": "A tiny wrapper of using coffee-script for gulpfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "gulpc": "./index.js"
+  },
+  "keywords": [
+    "gulp",
+    "coffee-script"
+  ],
+  "author": "Kchan Zen <kchanzen@gmail.com> (http://www.kchanzen.com/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kchanzen/gulpc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kchanzen/gulpc/issues"
+  },
+  "homepage": "https://github.com/kchanzen/gulpc"
+}
